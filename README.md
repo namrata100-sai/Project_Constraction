@@ -30,9 +30,22 @@ login
 2. user </br>
 * admin - stocks , order list , create stocks , stock history payment getway - through user , suppliers
 
+
+
+
+
+
+
+
+
+
+
+
   </br>
-  <h5> should know</h5>
+  <h4> should know</h4>
   </br>
-  1. react query
-  2. npm init </br>
+  1. react query </br>
+  2. npm init </br>  
   => to initiales the node project also create package.json file     npm init -y || -y means add default values in your project means project name , description , version etc
+   </br>
+   3. npm install , 
