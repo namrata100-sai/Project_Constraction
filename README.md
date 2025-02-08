@@ -34,3 +34,5 @@ login
   <h5> should know</h5>
   </br>
   1. react query
+  2. npm init </br>
+  => to initiales the node project also create package.json file     npm init -y || -y means add default values in your project means project name , description , version etc
