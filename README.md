@@ -28,4 +28,9 @@ section - B
 login 
 1. admin
 2. user </br>
-* admin - stocks , order list , create stocks , stock history payment getway - through user , suppliers 
+* admin - stocks , order list , create stocks , stock history payment getway - through user , suppliers
+
+  </br>
+  <h5> should know</h5>
+  </br>
+  1. react query
