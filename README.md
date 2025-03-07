@@ -49,3 +49,12 @@ login
   => to initiales the node project also create package.json file     npm init -y || -y means add default values in your project means project name , description , version etc
    </br>
    3. npm install , 
+
+
+
+
+
+
+
+
+   https://d59nv604.na1.hubspotlinks.com/Ctc/W5+113/d59nv604/VWZM4n5Lk2pKV8VCxn41JQHMW2x7JLQ5sS377N5LPbRz5nXHsW50kH_H6lZ3lpW4NPvGj3SLRYbN7d_G0VrXBT8W89yRQ672chqLW4ztvsZ2TM57cW1PGxrx3CZbnRW2T5QtQ3yMTbfW254N3Q8H1kvwW8d5y757VCQwYVk--vG8RvRhTW4mmbql66pWxyW2JHnPF2WVGn6W5smc5852t2jLVkfdX977Z36XW7SjD6k1_BYCXV_Xmvg3wSVHpW4s2Qdv3QCdYJN2s9Fs5JXJ22W2Kr_KX4BRxYBW6sjG183Bbt4CW7bZQsF6YW6zzW5-LhZd6mphMWW52707H59Z1C9VRh6-M8gJ9lLN77zfWKb8XdhW8cSpjl80QxDtW11BvCh5SnLQyW6c4m-31kVMlqW6nx88p8j2FpyW5ZJ6Fb3QvYsqW42LvZ55PRFNMW2mfQ5r2mk-nmN2LNs--_86ZRdtX1zC04
