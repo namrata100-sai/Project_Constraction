@@ -46,6 +46,7 @@ login
   </br>
   1. react query </br>
   2. npm init </br>  
+  3.npm i concurrently and  cors packages</br>
   => to initiales the node project also create package.json file     npm init -y || -y means add default values in your project means project name , description , version etc
    </br>
    3. npm install , 
